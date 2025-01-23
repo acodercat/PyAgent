@@ -34,8 +34,7 @@ pip install llm-py-agent
 ```bash
 # Clone the repository
 git clone https://github.com/acodercat/PyAgent.git
-cd py-agent
-# Or install in development mode with pip
+cd PyAgent
 pip install -e .
 ```
 
